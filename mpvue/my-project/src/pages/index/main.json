@@ -1,0 +1,12 @@
+{
+    "navigationBarTitleText": "购物车",
+    "usingComponents": {
+        "van-button": "../../../static/vant-ui/button/index",
+        "van-card": "../../../static/vant-ui/card/index",
+        "van-submit-bar": "../../../static/vant-ui/submit-bar/index",
+        "van-checkbox": "../../../static/vant-ui/checkbox/index",
+        "van-checkbox-group": "../../../static/vant-ui/checkbox-group/index",
+        "van-stepper": "../../../static/vant-ui/stepper/index"
+    }
+  }
+  
